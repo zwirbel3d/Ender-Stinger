@@ -18,7 +18,7 @@ Modifications copyright belongs to zwirbel3d. No original copyright dates are in
 This is a modified Y-axis motor mount for the Ender-Stinger build, rather than an
 unmodified copy of the original model. The motor-mount geometry was adapted by zwirbel3d.
 
-The exact dates of the geometric modifications were not recorded.
+The motor-mount geometry was modified in **April 2024**.
 The current Y-axis CAD files were added to this repository on **2026-01-04**
 (commit [ad577d5](https://github.com/zwirbel3d/Ender-Stinger/commit/ad577d5be3467235b880c46c485c2a136cbd4ed8)).
 This attribution and license notice was added on **2026-11-02**; that is a documentation date,
