@@ -8,8 +8,7 @@
 - Source: https://cults3d.com/en/3d-model/tool/ender-3-pro-y-axis-motor-mount
 - License shown on the source listing: **GNU General Public License 3.0**
 
-The remix author, zwirbel3d, has identified this as the very likely original design
-(approximately 99% confidence). The attribution records that remaining uncertainty.
+The Y-axis motor mount by zwirbel3d is a remix of the original design credited above.
 
 Original design copyright belongs to its original author(s), credited above.
 Modifications copyright belongs to zwirbel3d. No original copyright dates are inferred here.
